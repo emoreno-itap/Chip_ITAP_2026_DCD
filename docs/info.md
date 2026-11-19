@@ -8,13 +8,14 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 BCD to 7 seg
-
+BCD to 7 seg
+///
 ## How to test
-
 Enter the binary number, and it will convert it to BCD.
-
+Enter the binary number, and it will convert it to BCD.
+///
 ## External hardware
-
 install your LEDs
+install your LEDs
+///
