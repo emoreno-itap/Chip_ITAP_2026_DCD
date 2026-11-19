@@ -10,6 +10,6 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 It is a counter with 7-segment outputs, designed for 4 digital inputs.
 ## How to test
-You enter the digital number, and the LSD displays the number.
+You enter the digital number, and the lcd displays the number.
 ## External hardware
 Connect the 4 switches to the digital inputs, and the 7-segment display to the outputs.
