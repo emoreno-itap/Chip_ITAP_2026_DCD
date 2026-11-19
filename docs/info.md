@@ -8,14 +8,8 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-"BCD to 7 seg
-BCD to 7 seg
-///"
+It is a counter with 7-segment outputs, designed for 4 digital inputs.
 ## How to test
-"Enter the binary number, and it will convert it to BCD.
-Enter the binary number, and it will convert it to BCD.
-///"
+You enter the digital number, and the LSD displays the number.
 ## External hardware
-"install your LEDs
-install your LEDs
-///"
+Connect the 4 switches to the digital inputs, and the 7-segment display to the outputs.
